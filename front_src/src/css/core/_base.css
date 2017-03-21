@@ -24,7 +24,7 @@ html{
 // Default body styles
 body {
 	height: 100%;
-	background-color: #DFDFDF;
+	background-color: #fff;
 	font-family: $font;
 	font-size: $font-size-base;
 	line-height: 1.6;

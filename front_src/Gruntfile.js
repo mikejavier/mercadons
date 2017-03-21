@@ -6,7 +6,7 @@ module.exports = function( grunt ) {
 	var filesJS = ['src/tmp/js/main.js']
 
 	// Definição dos arquivos css
-	var postcssconcat = ['node_modules/normalize.css/normalize.css', 'src/tmp/css/main_postcss.css']
+	var postcssconcat = ['node_modules/normalize.css/normalize.css', 'node_modules/slick-carousel/slick/slick.css', 'src/tmp/css/main_postcss.css']
 
 	// Load all tasks
 	require('time-grunt')(grunt)
@@ -157,7 +157,7 @@ module.exports = function( grunt ) {
 
 				// Integrando com a tarefa 'watch'
 				watchTask: true,
-				proxy: 'localhost:8888/devframework',
+				proxy: 'localhost:8888/mercadons',
 
 
 				// Sincronizando os eventos entre os dispositívos
