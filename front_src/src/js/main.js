@@ -1,4 +1,4 @@
-// import './modules/dropdown.js'
+import './modules/search.js'
 import './modules/carousel.js'
 
 

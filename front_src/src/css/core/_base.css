@@ -39,7 +39,7 @@ a{
 
 	&:focus,
 	&:hover{
-		color: #000;
+		text-decoration: underline;
 	}
 }
 
@@ -47,6 +47,8 @@ a{
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 img{
 	max-width: 100%;
+	display: block;
+	height: auto;
 }
 
 

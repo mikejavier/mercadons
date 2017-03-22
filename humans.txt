@@ -1,6 +1,6 @@
 /* SITE */
 
-  Last update: 11/07/2011
+  Last update: 21/03/2017
   Language: Brazilian Portuguese (PT-BR)
   Doctype: HTML5
 
@@ -13,12 +13,12 @@
 /* SPECIAL THANKS */
 
   role: name
-  Twitter: 
+  Twitter:
 
 /* TECHNOLOGY, FRAMAWORKS, SOFTWARES */
 
    HTML5, CSS3, JAVASCRIPT
-   Normalize.css, jQuery, Modernizr, Html5Boilerplate, Jeet
-   Sublime Text 3, Photoshop, Grunt, Bower
+   Normalize.css, jQuery, Modernizr, Html5Boilerplate,
+   Sublime Text 3, Photoshop, Grunt
 
 # And, of course, all humanstxt.org team!

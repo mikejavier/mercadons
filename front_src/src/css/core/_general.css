@@ -3,4 +3,7 @@
 .wrap{
 	lost-center:1170px;
 	lost-flex-container:row;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	position: relative;
 }

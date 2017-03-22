@@ -1,0 +1,11 @@
+.more{
+	width: 100%;
+	text-align: right;
+	color: #ffffff;
+	font-size: 1.8rem;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.more--red{
+	color: #bd1c2e;
+}

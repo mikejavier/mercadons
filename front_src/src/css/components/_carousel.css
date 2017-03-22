@@ -1,0 +1,19 @@
+.carousel-nav{
+	position: absolute;
+}
+.carousel-nav__item{
+	color: #fff;
+	font-size: 2.5rem;
+	min-width: 30px;
+	display: inline-block;
+	text-align: center;
+}
+.carousel-nav__item--black{
+	background-color: #000;
+}
+.carousel-nav__item--light-grey{
+	background-color: #d3d3d3;
+}
+.carousel-nav__item--grey{
+	background-color: #6e7071;
+}
